@@ -14,7 +14,7 @@ flutter run
 
 ### Learn
 
-I will show how to create a flutter news app with NewsApi Org, In Flutter News App we will load top headlines on the home page and we have categories option to see top headlines based on categories https://youtu.be/aaGcER1uUoE 
+This will help you :  https://youtu.be/aaGcER1uUoE 
 
 
 ### License
